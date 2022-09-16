@@ -1,4 +1,10 @@
 1q)What is a gitignore file and what should it include for a Java project? 
+A)gitignore file tells Git which files to ignore when committing your project to the GitHub repository
 2q)What does fast-forward in git mean? 
+A)Fast forward merges literally move your main branch's tip forward to the end of your feature branch.
 3q)Why should you have different branches? 
-4q)In a project how many remote Git repositories do you usually have?
+A)Branches allow ut to do parallel development. They allow us to develop features,
+fix bugs and work safely in a contained area of our repository.
+4q)In a project how many remote Git repositories do you usually have? 
+A)We can have as many remote git repositories as we want but can only have one 
+remote named 'origin' as it is default one created by Git.
